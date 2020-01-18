@@ -1,4 +1,4 @@
-# Data-Mining-II
+# Data Mining II
 The final report for my Data Mining and Analytics II class that earned the WGU Academic Excellence Award.
 
 The Jupyter Notebook holds the actual project, and all of the work needed to produce the final report.
